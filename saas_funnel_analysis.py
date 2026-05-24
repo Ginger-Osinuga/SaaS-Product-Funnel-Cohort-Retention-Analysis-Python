@@ -1,5 +1,5 @@
 # =============================================================================
-# PROJECT 1: SaaS Funnel and Cohort Retention Analysis
+# SaaS Funnel and Cohort Retention Analysis
 # =============================================================================
 # What this project does:
 #   - Simulates a real product-led growth (PLG) funnel: Visited > Signed Up >
