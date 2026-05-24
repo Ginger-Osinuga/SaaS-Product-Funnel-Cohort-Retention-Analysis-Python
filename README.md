@@ -1,11 +1,7 @@
 📈 SaaS Product Funnel & Cohort Retention Analysis (Python)
-Project Overview
+
+🎯Project Overview
 A Python-based analysis of a simulated product-led growth (PLG) SaaS funnel tracking 5,000 users across 6 months. This project measures conversion rates at every stage of the funnel — from site visit through paid conversion — and builds a cohort retention model to track how well the product retains users at 30, 60, and 90 days after activation.
----
-Business Questions Answered
-What percentage of visitors convert to paid customers?
-Which acquisition channel has the highest paid conversion rate?
-How does retention hold up at 30, 60, and 90 days for each monthly cohort?
 
 ❓ Business Questions Answered
 What percentage of visitors convert to paid customers?
